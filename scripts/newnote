@@ -1,0 +1,3 @@
+notePath="/home/jarvis/NJIT/Masters/2022/Fall/MS_CS631/notes/"
+
+touch $notePath$"notes_on_"$(date '+%m_%d_%Y')$".txt"
