@@ -9,4 +9,4 @@
 
  - Database Managment System: general-purpose software that faciliates the process of defining, construction, manipulating and sharing a database among various user and/or applications.
 
- - 
+ - Database System: 
