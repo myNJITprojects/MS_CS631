@@ -1,0 +1,13 @@
+notePath="/home/"$(whoami)$"/NJIT/Masters/2022/Fall/MS_CS631/notes/"
+
+if [ -d $notePath ]
+then
+	echo " ** Note was created ** "
+	touch $notePath$"notes_on_"$(date '+%m_%d_%Y')$".txt"
+	ls -lt $notePath
+else
+	echo " ** Directory not found ** " 
+	echo "    Creating Directory"
+	mkdir -p $notePath
+	echo "    Run Scritp again"
+fi 
