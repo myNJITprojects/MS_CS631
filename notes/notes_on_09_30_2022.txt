@@ -1,0 +1,18 @@
+
+2 1st weeks was general terms and definitios
+
+3 week dat modeling
+
+4th week 
+
+How to find the relationships:
+	1) anttri
+	2)
+	3) finding the cardinalities
+	4)
+
+Mid-Term:  October 28 2022
+
+EER - Enhance Entity Relationship
+
+
