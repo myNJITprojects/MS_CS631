@@ -1,0 +1,7 @@
+ReservationID,Status,StartDate,StartTime,EndDate,EndTime,Type,Pickup_LocationID,Return_LocationID,ClassCar_Name
+12,open,4/3/2022,6:20:15,4/13/2022,22:22:22,walkin,4,2,Minivan
+13,open,5/3/2022,6:20:15,5/23/2022,22:22:22,phone,3,3,Pickup
+14,open,6/3/2022,6:20:15,6/13/2022,22:22:22,walkin,2,4,Sedan
+16,open,11/22/2022,3:20:15,11/30/2022,22:22:22,phone,3,3,Luxury
+17,open,11/25/2022,4:20:15,11/26/2022,23:22:22,walkin,1,2,Luxury
+18,open,11/22/2022,5:20:15,11/28/2022,24:22:22,phone,1,2,Luxury

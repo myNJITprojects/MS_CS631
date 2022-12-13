@@ -1,0 +1,26 @@
+VIM,Color,ClassCar_Name,CarModel_carmodelID
+100a1,red,Compact,6
+100a10,yellow,Minivan,15
+100a11,green,Minivan,16
+100a12,"light blue",Pickup,17
+100a13,blue,Pickup,18
+100a14,purple,Pickup,19
+100a15,red,Sedan,20
+100a16,orange,Sedan,21
+100a17,yellow,Sedan,22
+100a18,green,Sedan,23
+100a19,"light blue",Van,24
+100a2,orange,Compact,7
+100a20,blue,Van,25
+100a21,"light blue",Van,26
+100a3,yellow,Compact,8
+100a4,green,Compact,9
+100a5,"ligth blue",Luxury,10
+100a6,blue,Luxury,11
+100a7,purple,Luxury,12
+100a8,red,Luxury,13
+100a9,orange,Minivan,14
+abc1234xyz1492,purple,Pickup,4
+idont000konw111vim,Green,Minivan,1
+newark1666nj2022,yellow,Van,2
+njitm02d09y1881,black,Sedan,3

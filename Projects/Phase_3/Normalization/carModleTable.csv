@@ -1,0 +1,26 @@
+carmodelID,Year,Name,Make,ClassCar_Name
+1,2023,Sienna,Toyota,Minivan
+2,2009,Sprinter,Dodge,Van
+3,2020,"Model 3",Tesla,Sedan
+4,2023,"Hummer ",GMC,Pickup
+6,2000,GTI,Volkswagen,Compact
+7,2001,Veloster,Hyundai,Compact
+8,2002,Corolla,Toyota,Compact
+9,2003,Spark,Chevrolet,Compact
+10,2004,Huracan,Lamborghini,Luxury
+11,2005,"AMG 63",Mercedes-Benz,Luxury
+12,2006,CT5,Cadillac,Luxury
+13,2007,XF5,Jaguar,Luxury
+14,2008,Sienmna,Toyota,Minivan
+15,2009,Carnival,KIA,Minivan
+16,2010,Pacifica,Chrysler,Minivan
+17,2011,F-150,Ford,Pickup
+18,2012,Gladiator,Jeep,Pickup
+19,2013,Silverado,Chevrolet,Pickup
+20,2014,300,Chrysler,Sedan
+21,2015,A6,Audi,Sedan
+22,2016,Malibu,Chevrolet,Sedan
+23,2017,Taurus,Ford,Sedan
+24,2018,Transit,Ford,Van
+25,2019,Sprinter,Mercedes-Benz,Van
+26,2020,ProMaster,RAM,Van
